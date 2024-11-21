@@ -1,0 +1,16 @@
+8488538ee870b25386191228825e464d *DESCRIPTION
+d7baecb1c7f5ce085ccfee986330f6a0 *NAMESPACE
+40166e5751bf80c559bb4365a9ea81ce *NEWS.md
+25b7b111e03254897f067ce702fea168 *R/data.R
+ea472be90634d79d0f5cdee183757704 *R/mcc.R
+12a42e5e18cbe791d3862af0023d79bc *README.md
+24bc7c3f5a645905c53152bd3d0b8f61 *build/partial.rdb
+d621e144ec1f7bc347762413cb30e538 *data/mccxmpl.rda
+3a2fd3bc503438948c0237c67934d7f1 *man/figures/logo.png
+fffb45c5f4e31bc8dfd01f4df01e0881 *man/mcc.Rd
+8f2ea7bb5dcd707a0866ff9cd93c1621 *man/mccxmpl.Rd
+99e9c0037ee1699fddda5d83ed5be2ed *tests/testdata/run-stata-mcc.R
+35e8eb948c29359068ccae6ccde9e715 *tests/testdata/stata-output.log
+ce9fd0a9f992e9bad2a61bfa6a42f8a4 *tests/testthat.R
+d8a3a8085d1e156c87f5614478411202 *tests/testthat/helper-stata.R
+69eb2b47b65be68024cb2f3a6eb71941 *tests/testthat/test-mcc.R
